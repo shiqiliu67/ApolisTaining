@@ -4,3 +4,15 @@ git push --set-upstream origin branch2
 git log -G "<keyword>" means you can search the thing
 
 apolis
+
+Modify System.out.print(ar[i]+"\t");
+
+Git stash list
+Git stash save
+//git cherry-pick change the commit into another branch
+Git add. 
+Git commit
+Git checkout <branch name>
+Git log -1 //look up the sha_name 
+Git checkout <need to send branch>
+Git cherry-pick <sha_name>

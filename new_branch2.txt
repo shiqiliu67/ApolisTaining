@@ -3,4 +3,4 @@ git push --set-upstream origin branch2
 
 git log -G "<keyword>" means you can search the thing
 
-Apolis
+apolis

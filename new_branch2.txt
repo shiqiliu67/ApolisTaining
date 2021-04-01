@@ -11,8 +11,11 @@ Git stash list
 Git stash save
 //git cherry-pick change the commit into another branch
 Git add. 
-Git commit
+Git commit -m
 Git checkout <branch name>
 Git log -1 //look up the sha_name 
 Git checkout <need to send branch>
 Git cherry-pick <sha_name>
+
+shiqiliu@SHIQIs-MacBook-Pro ApolisTaining % git log -1
+commit 531f974be49550d7ceb3582bc1545c3a5c6d4821 (HEAD -> branch2, checkout)

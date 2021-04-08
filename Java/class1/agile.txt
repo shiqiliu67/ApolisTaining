@@ -1,0 +1,109 @@
+# Agile Scrum Methodology
+
+What is Agile Methodology?
+Agile methodology is a practice that promotes continuous iteration of development
+and testing throughout the software development lifecycle of the project.
+Both development and testing activities are concurrent, unlike the waterfall model.
+
+# Waterfall Model
+The waterfall model is a relatively linear sequential approach for certain areas
+In this model, as progress flows in essentially one direction like Waterfall
+there might be a chance to get issues in future
+
+# Issues with traditional development
+> Unclear Requirement
+> Requirement changes
+> Lack of Involvement of the customer
+> Accuracy of estimation
+> Last minute correction is difficult
+> Much time for testing and fixing bugs
+
+The Waterfall we complete one phase before moving on to the next phase as we really
+aim to revisit a phase once its completed, which means we must be sure that 
+whatever we are doing, we better do it correctly for the first time
+
+we don't realize any value until the end of the project 
+
+We also leave testing until the end.
+
+No involvement of the customer; hence we don't seek approval from the owner until
+the end
+
+
+# Agile Vs. Waterfall Method
+Agile and Waterfall models are two different methods for the software development process.
+Though they are different in their approach, both ways are helpful depending upon the type of project.
+
+- Agile process is broken into individual models that designer work on
+- The customer has early and frequent opportunities to look at the product and make 
+decision and changes to the project
+- Small projects can be implemented very quickly for a large project. It is 
+difficult to estimate the development cost
+- Error can be fixed in the middle of the project
+- development process is executed in short (2-4) weeks planning is less
+- documentation attends less priority than software development
+- Every iteration has its own testing phase
+- testers and developers work together
+- at the end of every sprint, user acceptance is performed
+
+
+-Waterfall design process is not broken
+- The customer can only see the product at the end of the project
+- All sort of project can be estimated and completed
+- only at the end the whole product is tested if any error found and 
+require changes, the project has to start from the beginning
+- the development process is phased where every phase end with detailed
+description of the next phase
+- documentation is a top priority, and these document can be used for training
+staff
+- Only after the development phase the testing executed
+- tester and developer work separately
+- user acceptance is performed at the end of the project
+
+> Scrum
+> DSDM (Dynamic Software Development Method)
+> FDD (Feature Driven Development )
+> Lean Software development
+
+# SCRUM 
+Scrum is an agile development method that concentrates specifically on how to manage
+the task with the team-based development environment
+Basically, Scrum is derived from an activity that occurs during a rugby match.
+Scrum believes in empowering the development team and encourage working in a small team.
+
+
+Roles
+1. Product Owner
+2. Scrum Master
+3. Team
+
+
+> Product Owner
+Create the product backlog, prioritize the backlog, and also responsible for the delivery
+of the functionality at each iteration
+
+> Scrum Master
+Is responsible for setting up the team. sprint meeting and removes obstacles to
+progress
+
+> Team
+The team manages its own work and organizes the work to complete the sprint cycle.
+
+
+# 3 Artifacts
+> Product Backlog
+> Sprint Backlog
+> Burndown Charts
+
+Product Backlog - user stories
+
+# Events or Ceremonies
+> Sprint Planning
+> Daily Scrum call
+> Sprint review
+
+
+# Scrum Call
+- What we have done so far
+- What we will be going to do now
+- Is there any blocker

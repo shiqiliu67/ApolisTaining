@@ -1,0 +1,42 @@
+hi, this is vision 2.0 after using comand
+git push --set-upstream origin branch2
+
+git log -G "<keyword>" means you can search the thing
+
+apolis
+
+Modify System.out.print(ar[i]+"\t");
+
+Git stash list
+Git stash save
+//git cherry-pick change the commit into another branch
+Git add. 
+Git commit -m
+Git checkout <branch name>
+Git log -1 //look up the sha_name 
+Git checkout <need to send branch>
+Git cherry-pick <sha_name>
+
+
+commit 531f974be49550d7ceb3582bc1545c3a5c6d4821 (HEAD -> branch2, checkout)
+shiqiliu@SHIQIs-MacBook-Pro ApolisTaining % git add .
+shiqiliu@SHIQIs-MacBook-Pro ApolisTaining % git commit -m"move txt from branch2 to checkout branch"
+[checkout f528f89] move txt from branch2 to checkout branch
+shiqiliu@SHIQIs-MacBook-Pro ApolisTaining % git log -3
+commit f528f894c4781f9d2fe6a10de24abe81692b226a (HEAD -> checkout)
+Author: SHIQI LIU <42729082+shiqiliu67@users.noreply.github.com>
+Date:   Thu Apr 1 16:10:12 2021 -0500
+
+    move txt from branch2 to checkout branch
+
+commit 531f974be49550d7ceb3582bc1545c3a5c6d4821 (branch2)
+Author: SHIQI LIU <42729082+shiqiliu67@users.noreply.github.com>
+Date:   Thu Apr 1 16:10:12 2021 -0500
+
+    git cherry-pick practise
+
+commit e07df359567d19b6679b95503ea5184285820176
+Author: SHIQI LIU <42729082+shiqiliu67@users.noreply.github.com>
+Date:   Thu Apr 1 15:28:57 2021 -0500
+
+    teststuash

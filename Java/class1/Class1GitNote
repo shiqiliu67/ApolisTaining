@@ -1,0 +1,22 @@
+Hi, This is SHIQI Liu
+
+process:
+git init
+git status
+vi txt
+git add .
+git commit -m ""
+
+//check
+git config --list
+git config -- global user.name
+git config -- global user.email
+git config -- global user.name"<name>"
+git config -- global user.email"<email>"
+
+//clone
+git clone <url>
+//push
+git push /*need create repository first */
+//create folder
+mkdir
